@@ -1,0 +1,13 @@
+SALES DATA ANALYSIS REPORT
+==========================
+
+Total Revenue: 12365048
+Best Selling Product: Laptop
+
+Sales by Product:
+product
+Laptop        3889210
+Tablet        2884340
+Phone         2859394
+Headphones    1384033
+Monitor       1348071
