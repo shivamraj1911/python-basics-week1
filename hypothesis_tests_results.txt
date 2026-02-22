@@ -1,0 +1,3 @@
+T-test p-value: 0.09161355318748304
+ANOVA p-value: 0.4756020710069211
+Marketing-Customer Correlation: 0.07124153687425505
